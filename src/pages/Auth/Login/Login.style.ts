@@ -1,9 +1,5 @@
 import styled from 'styled-components';
-import { Row } from '../Auth.style';
 
-export const ContainerFooter = styled(Row)`
-justify-content: space-between;
-`;
 
 export const ForgotPassword = styled.p`
     font-weight: 700;
